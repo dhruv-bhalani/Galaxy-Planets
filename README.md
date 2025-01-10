@@ -1,4 +1,4 @@
-# Animation App
+# Galaxy Planets
 
 ## Project Definition :
 Galaxy Planets (Animator)
