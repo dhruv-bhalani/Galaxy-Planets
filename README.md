@@ -35,12 +35,13 @@ The app features an attention-grabbing splash screen that welcomes users to the 
 Planet: Each planet has a dedicated detail screen that provides comprehensive information about the celestial body. Users can explore detailed descriptions, view high-quality images, and learn fascinating facts about each planet, enabling an educational and entertaining journey through the galaxy.
 
 ### --: Photos :--
+<img src="https://github.com/user-attachments/assets/b434875d-eb61-4d4b-9f4a-48b12ca34cdf" width=240>
 <img src="https://github.com/user-attachments/assets/d492f67b-ee0e-4f6f-85ef-9f890e7cd446" width=240>
 <img src="https://github.com/user-attachments/assets/77e188fe-e5ae-4e28-b7f0-0ef0a8a666b8" width=240>
 <img src="https://github.com/user-attachments/assets/bb4331bf-ca07-44a0-828a-bfc4d5d976cd" width=240>
-<img src="https://github.com/user-attachments/assets/3dd98f15-3322-40c5-b533-052ef5ac43b1" width=240>
-<img src="https://github.com/user-attachments/assets/b434875d-eb61-4d4b-9f4a-48b12ca34cdf" width=240>
 <img src="https://github.com/user-attachments/assets/6e4f056f-3ff1-4909-92c4-781af4f4059b" width=240>
+<img src="https://github.com/user-attachments/assets/3dd98f15-3322-40c5-b533-052ef5ac43b1" width=240>
+
 
 ### --: Video :--
 
