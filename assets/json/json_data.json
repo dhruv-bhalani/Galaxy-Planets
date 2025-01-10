@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Sun",
+    "lengthOfYear": "25 Earth days",
+    "radius": "696,340 kilometers",
+    "distanceFromSun": "0 million Km",
+    "planetType" : "G-type main-sequence star",
+    "description": "The Sun is a 4.5 billion-year-old yellow dwarf star – a hot glowing ball of hydrogen and helium – at the center of our solar system. It's about 93 million miles (150 million kilometers) from Earth and it's our solar system's only star. Without the Sun's energy, life as we know it could not exist on our home planet.",
+    "image": "assets/img/sunn.png",
+    "hero": "sun"
+  },
+  {
+    "name": "Neptune",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "165 years",
+    "radius": "24,764 kilometers",
+    "distanceFromSun": "4.4731 billion km",
+    "planetType" : " Ice Giant",
+    "description": "Neptune is one of two ice giants in the outer solar system (the other is Uranus). Most (80% or more) of the planet's mass is made up of a hot dense fluid of \"icy\" materials – water, methane, and ammonia – above a small, rocky core. Of the giant planets, Neptune is the densest.Neptune has a faint system of rings composed of ice particles and dust.",
+    "image": "assets/img/neptune.png",
+    "hero": "neptune"
+  },
+  {
+    "name": "Uranus",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "84 years",
+    "radius": "25,559 kilometers",
+    "planetType" : "Gas Giant",
+    "distanceFromSun": "2.9379 billion km",
+    "description": "Uranus is one of two ice giants in the outer solar system. Most (80% or more) of the planet's mass is made up of a hot dense fluid of \"icy\" materials – water, methane, and ammonia – above a small rocky core. Near the core, it heats up to 9,000 degrees Fahrenheit. Uranus is slightly larger in diameter than its neighbor Neptune, yet smaller in mass.",
+    "image": "assets/img/ur.png",
+    "hero": "uranus"
+  },
+  {
+    "name": "Saturn",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "29 Earth years",
+    "radius": "60,268 kilometers",
+    "distanceFromSun": "1.4635 billion km",
+    "planetType" : "Gas Giant",
+    "description": "Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex as Saturn's. Saturn also has dozens of moons.",
+    "image": "assets/img/sp.png",
+    "hero": "saturn"
+  },
+  {
+    "name": "Earth",
+    "lengthOfYear": "365 Earth days",
+    "radius": "6,371 kilometers",
+    "half": "assets/img/halfEarth.png",
+    "distanceFromSun": "151.83 million km",
+    "planetType" : "Terrestrial Planet",
+    "description": "Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.Earth's atmosphere is made mostly of nitrogen and has plenty of oxygen for us to breathe. ",
+    "image": "assets/img/earth.png",
+    "hero": "earth"
+  },
+  {
+    "name": "Mars",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "687 Earth days",
+    "radius": "3,389.5 kilometers",
+    "distanceFromSun": "250.66 million km",
+    "planetType" : "Terrestrial Planet",
+    "description": "Mars is sometimes called the Red Planet. It's red because of rusty iron in the ground. Like Earth, Mars has seasons, polar ice caps, volcanoes, canyons, and weather. It has a very thin atmosphere made of carbon dioxide, nitrogen, and argon.There are signs of ancient floods on Mars, but now water mostly exists in icy dirt and thin clouds",
+    "image": "assets/img/marss.png",
+    "hero": "mars"
+  },
+  {
+    "name": "Jupiter",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "12 Earth years",
+    "radius" : "69,911 kilometers",
+    "distanceFromSun": "741.43 million km",
+    "planetType" : "Gas Giant",
+    "description": "Jupiter is covered in swirling cloud stripes. It has big storms like the Great Red Spot, which has been going for hundreds of years. Jupiter is a gas giant and doesn't have a solid surface, but it may have a solid inner core about the size of Earth. Jupiter also has rings, but they're too faint to see very well.",
+    "image": "assets/img/jp.png",
+    "hero": "jupiter"
+  },
+  {
+    "name": "Mercury",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "88 Earth days",
+    "radius": "2,440 kilometers",
+    "distanceFromSun": "57.9 million kilometers",
+    "planetType" : "Terrestrial Planet",
+    "description": "Mercury is the second densest planet, after Earth. It has a large metallic core with a radius of about 1,289 miles (2,074 kilometers), about 85 percent of the planet's radius. There is evidence that it is partly molten or liquid.Mercury is the second densest planet, after Earth. It has a large metallic core with radius of about 1,289 miles,about 85 percent of the planet's radius.",
+    "image": "assets/img/mrc.png",
+    "hero": "mercury"
+  },
+  {
+    "name": "Venus",
+    "half": "assets/img/halfEarth.png",
+    "lengthOfYear": "225 Earth days",
+    "radius" : "6,052 kilometers",
+    "distanceFromSun": "108.2 million kilometers",
+    "planetType" : "Terrestrial Planet",
+    "description": "Venus is the second planet from the Sun, and is Earth's closest neighbor in the solar system. Venus is the brightest object in the sky after the Sun and the Moon, and sometimes looks like a bright star in the morning or evening sky. The planet is a little smaller than Earth, and is similar to Earth inside.We can't see the surface of Venus from Earth.",
+    "image": "assets/img/venus.png",
+    "hero": "venus"
+  }
+]
